@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "electron-builder": "^5.30.0",
-    "electron": "^1.6.2"
+    "electron": "^9.1.1"
   },
   "build": {
     "appId": "com.nightdev.pussh",
